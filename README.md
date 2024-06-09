@@ -14,8 +14,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 ## 👁️ Number of visits:   
 <p align="center">
    <img src="https://profile-counter.glitch.me/{Nuriddin-775}/count.svg"/>
