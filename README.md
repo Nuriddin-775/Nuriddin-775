@@ -13,6 +13,9 @@
 <img align='left' src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 
 <br/>
+<br/>
+<br/>
+<br/>
 ## 👁️ Number of visits:   
 <p align="center">
    <img src="https://profile-counter.glitch.me/{Nuriddin-775}/count.svg"/>
